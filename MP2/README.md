@@ -1,0 +1,2 @@
+# Client-Server Processing
+In this machine problem, we set the stage for a high-performance data query and processing system for an ICU patient monitoring system. This system consists of a client program that sends data requests to a data server program and then processes and “visualizes” the returned data. In this machine problem we find our way around the system, collect some baseline performance data, and sets up some infrastructure for subsequent machine problems.
